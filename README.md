@@ -16,4 +16,6 @@ GRUB_TIMEOUT=0 ---> #GRUB_TIMEOUT=0
 ```
 sudo update-grub
 ```
-When you see "Dell" Symbol, you can press "Esc". Next you should select the old kernel.
+When you see "Dell" Symbol, you can press "Esc". Next you should select the old kernel. <br />
+Better option: <br />
+https://blog.csdn.net/hfutdog/article/details/79331949 <br />
